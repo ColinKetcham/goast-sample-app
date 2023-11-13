@@ -18,6 +18,7 @@ function App() {
       <div className="card">
         <DisplayUser></DisplayUser>
       </div>
+      <button className="home-page-button">Click Me</button>
       <p className="read-the-docs">
         Click on the Goast logo to learn more
       </p>
